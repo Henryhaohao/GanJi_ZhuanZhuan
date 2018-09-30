@@ -21,18 +21,18 @@ Version: Python3
 pip3 install -r requirements.txt
 ```
 ## :dolphin:**运行截图**
-> - **查看赶集网转转平台二手商品的所有分类 - http://bj.ganji.com/wu/**<br>
+> - **查看赶集网转转平台二手商品的所有分类 - http://bj.ganji.com/wu/**<br><br>
 ![enter image description here](Pic/sort.png)
 ![enter image description here](Pic/all_sort.png)
 
-> - **爬取内容**<br>
+> - **爬取内容**<br><br>
 ![enter image description here](Pic/content_1.png)
 ![enter image description here](Pic/content_2.png)
 
-> - **运行过程**<br>
+> - **运行过程**<br><br>
 ![enter image description here](Pic/run.gif)
 
-> - **数据结构**<br>
+> - **数据结构**<br><br>
 ![enter image description here](Pic/url_list.jpg)
 ![enter image description here](Pic/item_info.jpg)
 
