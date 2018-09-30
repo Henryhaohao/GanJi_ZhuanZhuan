@@ -25,15 +25,15 @@ pip3 install -r requirements.txt
 ![enter image description here](Pic/sort.png)
 ![enter image description here](Pic/all_sort.png)
 
-> - **爬取内容**
-> - ![enter image description here](Pic/content_1.png)
-> - ![enter image description here](Pic/content_2.png)
+> - **爬取内容**<br>
+![enter image description here](Pic/content_1.png)
+![enter image description here](Pic/content_2.png)
 
-> - **运行过程**
-> - ![enter image description here](Pic/run.gif)
+> - **运行过程**<br>
+![enter image description here](Pic/run.gif)
 
-> - **数据结构**
-> - ![enter image description here](Pic/url_list.jpg)
-> - ![enter image description here](Pic/item_info.jpg)
+> - **数据结构**<br>
+![enter image description here](Pic/url_list.jpg)
+![enter image description here](Pic/item_info.jpg)
 
 
